@@ -1,0 +1,1 @@
+SELECT account_id FROM alexl.filter_dvd_only_954 WHERE dvd_only = 'Has Str'
